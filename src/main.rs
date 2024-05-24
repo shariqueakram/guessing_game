@@ -10,6 +10,8 @@ fn main() {
 
     println!("The secret number is: {secret_number}");
 
+    //Master Branch test
+
 loop {    
     println!("Please input your guess.");
 

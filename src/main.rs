@@ -12,6 +12,8 @@ fn main() {
 
 loop {    
     println!("Please input your guess.");
+    
+//Test commit change to git 
 
     let mut guess = String::new();
 

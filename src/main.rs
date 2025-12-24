@@ -11,6 +11,8 @@ fn main() {
     //adjust the range here
 
 
+    //Master Branch test
+
 loop {    
     println!("Please input your guess.");
 
